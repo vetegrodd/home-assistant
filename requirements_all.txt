@@ -21,6 +21,9 @@ Adafruit-CharLCD==1.1.0
 # homeassistant.components.notify.hdd44780
 Adafruit-CharLCD==1.1.0
 
+# homeassistant.components.notify.hdd44780
+Adafruit-CharLCD==1.1.0
+
 # homeassistant.components.isy994
 PyISY==1.0.7
 
